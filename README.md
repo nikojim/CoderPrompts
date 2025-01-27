@@ -1,7 +1,7 @@
 # Entrega Generación de prompts
 Nicolás Pereira
 
-[[TOC]]
+[TOC]
 
 ## Resumen
 EL objetivo de este proyecto es poder generar un chatbot sobre un contexto determinado dado por el usuario a partir de documentos PDFs.
