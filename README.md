@@ -29,3 +29,13 @@ En concreto este  proyecto se pretenden realizar tres pasos:
  - Faiss
  - Embeddings
  - Gradio
+
+## 5.Caso de prueba
+Se generarán un chatbot sobre documentos de factura electrónica en PDF proporcionados por la DGI (Dirección general de impositiva).
+Se realizarán consultas pertinentes al tema de facturación electrónica.
+Se adjunto un jupyter notebook - chat_sobrePDF.ipynb con el caso de prueba.
+El modelo sobre el que se realiza el chatbot es un llama3.2:1b - bajado de Ollama - que corre de forma local en la PC.
+
+## 6.Propuesta para la entrega final
+Se realizarán los pasos 1 y 4 de la metodología descrita en el punto 3 que quedaron pendientes.
+Se probará sobre otro modelo -chatGPT de OPENAI - para comparar performance y correctitud de las respuestas.
