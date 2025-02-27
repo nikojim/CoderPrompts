@@ -5,7 +5,6 @@ Nicolás Pereira
 EL objetivo de este proyecto es poder generar un chatbot sobre un contexto determinado dado por el usuario a partir de documentos PDFs.
 
 ## 1.Introducción
-
 Explicación del problema, justificación y alcance del proyecto.
 
 ## 2.Objetivos
@@ -38,11 +37,30 @@ El modelo sobre el que se realiza el chatbot es un llama3.2:1b - bajado de Ollam
 ## 6.Entrega final
 Para la entrega final se realizan pruebas con RAG sobre un modelo llama3.2:1b corriendo en modo local y con el modelo GPT-4 de OPENAI para realizar una comparativa.
 Se agrega una interfaz gradio para interactuar con el prompt y además se prueban las urls de la interfaz en modo local y también la de acceso público que brinda GRADIO por 72 hs.
+Se entrega el notebook adjunto **chat_myPDF.ipynb** con el código implementado para la solución.
 
 ## 7.Comparativas de modelos
 Se muestran imágenes con los tiempos y las respuestas del RAG sobre los diferentes modelos probados.
 Claramente la calidad y performance de las respuestas son mejores con el modelo GPT-4 de OPENAI.
 
-![RAG con Ollama](/rag_ollama.jpg)
+  ### Rag con OLLAMA
+  ![RAG con Ollama](/rag_ollama.jpg)
+
+  ### Rag con GPT-4
+  ![RAG con GPT-4](/rag_gpt.jpg)
+
+## 8.Generación de Interfaz
+Como parte final de la entrega se genera una interfaz en gradio para la interacción con el prompt.
+  
+  ### Interfaz en el jupyter notebook
+  ![RAG con GPT-4](/gradio_notebook.jpg)
+
+  ### Interfaz en localhost
+  ![RAG con GPT-4](/gradio_local.jpg)
+
+  ### Interfaz con url pública
+  ![RAG con GPT-4](/gradio_public.jpg)
+  
+
 
 
