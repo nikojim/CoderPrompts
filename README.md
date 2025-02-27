@@ -44,22 +44,22 @@ Se muestran imágenes con los tiempos y las respuestas del RAG sobre los diferen
 Claramente la calidad y performance de las respuestas son mejores con el modelo GPT-4 de OPENAI.
 
   ### Rag con OLLAMA
-  ![RAG con Ollama](/rag_ollama.jpg)
+  ![RAG con Ollama](/images/rag_ollama.jpg)
 
   ### Rag con GPT-4
-  ![RAG con GPT-4](/rag_gpt.jpg)
+  ![RAG con GPT-4](/images/rag_gpt.jpg)
 
 ## 8.Generación de Interfaz
 Como parte final de la entrega se genera una interfaz en gradio para la interacción con el prompt.
   
   ### Interfaz en el jupyter notebook
-  ![RAG con GPT-4](/gradio_notebook.jpg)
+  ![RAG con GPT-4](/images/gradio_notebook.jpg)
 
   ### Interfaz en localhost
-  ![RAG con GPT-4](/gradio_local.jpg)
+  ![RAG con GPT-4](/images/gradio_local.jpg)
 
   ### Interfaz con url pública
-  ![RAG con GPT-4](/gradio_public.jpg)
+  ![RAG con GPT-4](/images/gradio_public.jpg)
   
 
 
