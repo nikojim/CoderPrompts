@@ -37,6 +37,12 @@ El modelo sobre el que se realiza el chatbot es un llama3.2:1b - bajado de Ollam
 
 ## 6.Entrega final
 Para la entrega final se realizan pruebas con RAG sobre un modelo llama3.2:1b corriendo en modo local y con el modelo GPT-4 de OPENAI para realizar una comparativa.
-Claramente la calidad y performance de las respuestas son mejores con el modelo GPT-4 de OPENAI.
 Se agrega una interfaz gradio para interactuar con el prompt y además se prueban las urls de la interfaz en modo local y también la de acceso público que brinda GRADIO por 72 hs.
+
+## 7.Comparativas de modelos
+Se muestran imágenes con los tiempos y las respuestas del RAG sobre los diferentes modelos probados.
+Claramente la calidad y performance de las respuestas son mejores con el modelo GPT-4 de OPENAI.
+
+![RAG con Ollama](/rag_ollama.jpg)
+
 
